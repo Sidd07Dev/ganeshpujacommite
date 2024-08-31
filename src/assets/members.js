@@ -12,7 +12,7 @@ const members = [
     {
       name: 'Ankit',
       role: '',
-      image: 'src/assets/members/member3.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725126340/members/k2qoqvq8xhkakpi6tpq7.jpg',
     },
     {
       name: 'Sreejeet',
@@ -57,7 +57,7 @@ const members = [
     {
       name: 'Nagen',
       role: '',
-      image: 'src/assets/members/member12.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725126353/members/rq3hntrn04b6nerkvzuz.jpg',
     },
     {
       name: 'Subha',
@@ -117,12 +117,12 @@ const members = [
     {
       name: 'Hari',
       role: '',
-      image: 'src/assets/members/member24.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725126317/members/ronyhours2lfxsofz03u.jpg',
     },
     {
       name: 'Bapun',
       role: '',
-      image: 'src/assets/members/member25.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725126862/members/g8sigyvmcgak2dmzngb8.jpg',
     },
     {
       name: 'Bishwajit',
@@ -137,7 +137,7 @@ const members = [
     {
       name: 'Tikan',
       role: '',
-      image: 'src/assets/members/member28.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725126721/members/dq3gm5euc9cagtj2urp2.jpg',
     },
     {
       name: 'Pinu',
