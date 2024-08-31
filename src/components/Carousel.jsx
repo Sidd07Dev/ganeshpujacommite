@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 const Carousel = () => {
   const images = [
-    "/src/assets/gallery/gallery1.jpeg",
+    "https://res.cloudinary.com/codebysidd/image/upload/v1725128427/members/zvpeinevjyppwewkjt9r.jpg",
     "https://img.freepik.com/premium-photo/happy-ganesh-chaturthi-greeting-background_1037680-37503.jpg?semt=ais_hybrid",
     "https://img.freepik.com/premium-photo/happy-ganesh-chaturthi-greeting-background_1037680-37495.jpg?semt=ais_hybrid",
   ];
