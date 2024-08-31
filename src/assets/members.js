@@ -87,7 +87,7 @@ const members = [
     {
       name: 'Manas',
       role: '',
-      image: 'src/assets/members/member18.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725128946/members/iomyaiime2a6dlztmhdc.jpg',
     },
     {
       name: 'Ajit',
