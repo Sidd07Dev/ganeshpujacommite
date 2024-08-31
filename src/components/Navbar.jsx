@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="bg-gradient-to-r from-yellow-500 via-red-500 to-pink-500 text-white shadow-lg">
       <div className="container mx-auto flex items-center justify-between py-4 px-6">
         <div className="flex items-center">
-          <img src="/src/assets/logo.png" alt="Ganesh Puja Committee Logo" className="h-20 w-20 mr-3 hover-lift bg-white rounded-full" />
+          <img src="https://res.cloudinary.com/codebysidd/image/upload/v1725128190/members/gz42n0lux0z4fai5qavg.png" alt="Ganesh Puja Committee Logo" className="h-20 w-20 mr-3 hover-lift bg-white rounded-full" />
         </div>
         <div className="hidden md:flex space-x-6">
           <a href="#president" className="hover:text-yellow-500">President</a>

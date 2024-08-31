@@ -19,7 +19,7 @@ const Home = () => {
       <Section id="president-secretary" title="President and Secretary's Message" bgColor="bg-slate-700 text-white">
         <div className="flex flex-col lg:flex-row lg:space-x-8">
           <div className="flex-1 text-center mb-8 lg:mb-0">
-            <img src="src/assets/members/member20.jpeg" alt="President" className="mx-auto rounded-full w-32 h-32 mb-4 hover-lift" />
+            <img src="https://res.cloudinary.com/codebysidd/image/upload/v1725127745/members/x2b5cab1qdjjgbwnz2nb.jpg" alt="President" className="mx-auto rounded-full w-32 h-32 mb-4 hover-lift" />
             <h3 className="text-2xl font-bold">Tapan</h3>
             <p className="text-sm mt-2">"ଯେହେତୁ ଆମେ ଗଣେଶ ଚତୁର୍ତ୍ତୀ ପାଳନ କରୁଛୁ, ମୁଁ ତୁମ ସମସ୍ତଙ୍କୁ ମୋର ହୃଦୟରୁ ଶୁଭେଚ୍ଛା ଜଣାଉଛି | ଭଗବାନ ଗଣେଶ ଆମ ଜୀବନରେ ଆନନ୍ଦ, ସମୃଦ୍ଧତା ଏବଂ ସଫଳତା ଆଣନ୍ତୁ | ଉତ୍ସବରେ ଆମ ସହିତ ଯୋଗ ଦିଅନ୍ତୁ ଏବଂ ଆସନ୍ତୁ ଏହି ଉତ୍ସବକୁ ପ୍ରକୃତରେ ସ୍ୱତନ୍ତ୍ର କରିବା!"</p>
           </div>
