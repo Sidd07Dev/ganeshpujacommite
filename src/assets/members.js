@@ -147,17 +147,17 @@ const members = [
     {
       name: 'Nipun',
       role: '',
-      image: 'src/assets/members/member30.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725200752/members/chkjovietiot0qg0rq9s.jpg',
     },
     {
       name: 'Sourav',
       role: '',
-      image: 'src/assets/members/member31.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725200712/members/caaumyvfzsvzpvonr0p6.jpg',
     },
     {
       name: 'Happy',
       role: '',
-      image: 'src/assets/members/member32.jpeg',
+      image: 'https://res.cloudinary.com/codebysidd/image/upload/v1725200619/members/ztpcgf1wckjlech6wky5.jpg',
     },
     // Add more members here
   ];

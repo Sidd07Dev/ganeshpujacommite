@@ -24,7 +24,7 @@ const Home = () => {
             <p className="text-sm mt-2">"ଯେହେତୁ ଆମେ ଗଣେଶ ଚତୁର୍ତ୍ତୀ ପାଳନ କରୁଛୁ, ମୁଁ ତୁମ ସମସ୍ତଙ୍କୁ ମୋର ହୃଦୟରୁ ଶୁଭେଚ୍ଛା ଜଣାଉଛି | ଭଗବାନ ଗଣେଶ ଆମ ଜୀବନରେ ଆନନ୍ଦ, ସମୃଦ୍ଧତା ଏବଂ ସଫଳତା ଆଣନ୍ତୁ | ଉତ୍ସବରେ ଆମ ସହିତ ଯୋଗ ଦିଅନ୍ତୁ ଏବଂ ଆସନ୍ତୁ ଏହି ଉତ୍ସବକୁ ପ୍ରକୃତରେ ସ୍ୱତନ୍ତ୍ର କରିବା!"</p>
           </div>
           <div className="flex-1 text-center">
-            <img src="src/assets/members/member32.jpeg" alt="Secretary" className="mx-auto rounded-full w-32 h-32 mb-4 hover-lift" />
+            <img src="https://res.cloudinary.com/codebysidd/image/upload/v1725200619/members/ztpcgf1wckjlech6wky5.jpg" alt="Secretary" className="mx-auto rounded-full w-32 h-32 mb-4 hover-lift" />
             <h3 className="text-2xl font-bold">Happy</h3>
             <p className="text-sm mt-2">"ଶୁଭ ଗଣେଶ ଚତୁର୍ତ୍ତୀ! ପ୍ରଭୁ ଗଣେଶଙ୍କ ଉତ୍ସବରେ ମୁଁ ସମସ୍ତଙ୍କୁ ସ୍ୱାଗତ କରି ଆନନ୍ଦିତ | ଆସନ୍ତୁ ଏକତ୍ରିତ ହୋଇ ଏହି ପର୍ବର ଆତ୍ମାକୁ ଗ୍ରହଣ କରିବା ଏବଂ ଆମର ପ୍ରିୟ ଦେବତାଙ୍କୁ ସମ୍ମାନ ଦେବା ସହିତ ଚମତ୍କାର ସ୍ମୃତି ସୃଷ୍ଟି କରିବା |"</p>
           </div>
