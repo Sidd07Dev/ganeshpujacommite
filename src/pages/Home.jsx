@@ -39,8 +39,10 @@ const Home = () => {
       </Section>
       <Section id="gallery" title="Photo Gallery" bgColor="bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 text-white">
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8">
-          <img src="https://res.cloudinary.com/codebysidd/image/upload/v1725128427/members/zvpeinevjyppwewkjt9r.jpg" alt="Gallery Image 1" className="w-full h-64 object-cover rounded-lg shadow-lg hover-lift" />
+          <img src="https://res.cloudinary.com/codebysidd/image/upload/v1725128427/members/zvpeinevjyppwewkjt9r.jpg" alt="Gallery Image 1" className="w-full h-64 rounded-lg shadow-lg hover-lift" />
            {/* Add more images as needed */}
+           <img src="https://res.cloudinary.com/codebysidd/image/upload/v1725638316/members/tubjdgykwxmd6idrloew.jpg" alt="Gallery Image 1" className="w-full h-64  rounded-lg shadow-lg hover-lift" />
+          
         </div>
       </Section>
       <Footer />
